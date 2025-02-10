@@ -1,5 +1,3 @@
-# Transfusion
-About Pytorch implementation of Transfusion, "Predict the Next Token and Diffuse Images with One Multi-Modal Model", from MetaAI
 <img src="./transfusion.png" width="400px"></img>
 
 ## Transfusion - Pytorch
@@ -155,20 +153,6 @@ loss.backward()
 # after much training
 
 sampled = model.generate_text_only(text[:, :1], 1024)
-```
-
-## Examples
-
-To run any of the examples `train_{example_name}.py` in the project root, simply install dependencies first as so
-
-```bash
-$ pip install .[examples]
-```
-
-If you run into some weird error with `safetensors`, run this too
-
-```bash
-$ pip install -U diffusers transformers accelerate scipy ftfy safetensors
 ```
 
 ## Citations

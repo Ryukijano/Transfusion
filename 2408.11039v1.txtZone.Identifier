@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://cloudconvert-files.s3.eu-central-1.amazonaws.com/d6919929-9d44-4628-8b3b-43dcb709863c/2408.11039v1.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAI2WCZ54772T33JEQ%2F20250110%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250110T184308Z&X-Amz-Expires=86400&X-Amz-Signature=f1ba8abb3b290509823af5597cd6f0916ba87e96dcf9c9b3ef256c7f1ec12138&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%222408.11039v1.txt%22&response-content-type=text%2Fplain&x-id=GetObject
